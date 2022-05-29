@@ -1,0 +1,16 @@
+C:\Users\79241\Desktop\worker\worker\bin\Debug\worker.exe.config
+C:\Users\79241\Desktop\worker\worker\bin\Debug\worker.exe
+C:\Users\79241\Desktop\worker\worker\bin\Debug\worker.pdb
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.csproj.AssemblyReference.cache
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.csproj.SuggestedBindingRedirects.cache
+C:\Users\79241\Desktop\worker\worker\obj\Debug\MainWindow.g.cs
+C:\Users\79241\Desktop\worker\worker\obj\Debug\App.g.cs
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker_MarkupCompile.cache
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker_MarkupCompile.lref
+C:\Users\79241\Desktop\worker\worker\obj\Debug\MainWindow.baml
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.g.resources
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.Properties.Resources.resources
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.csproj.GenerateResource.cache
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.csproj.CoreCompileInputs.cache
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.exe
+C:\Users\79241\Desktop\worker\worker\obj\Debug\worker.pdb
